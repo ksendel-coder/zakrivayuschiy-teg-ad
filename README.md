@@ -1,1 +1,1 @@
-https://ksendel-coder.github.io/zakrivayuschiy-teg-ad/
+https://github.com/ksendel-coder/zakrivayuschiy-teg-ad
