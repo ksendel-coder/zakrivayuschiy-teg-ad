@@ -248,7 +248,7 @@ main {
 }
 
 .button:focus {
-  outline: 2px solid transparent;
+  outline: none;
   box-shadow: 2px 2px 0 var(--main-color);
   transition: box-shadow 0.3s ease;
 }
@@ -278,7 +278,7 @@ main {
 }
 
 .card__icon-button:focus {
-  outline: 2px solid transparent;
+  outline: none;
 }
 
 .visually-hidden {
